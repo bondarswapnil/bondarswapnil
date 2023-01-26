@@ -1,8 +1,9 @@
 **👋 Hi, I’m Swapnil_Bondar**
-      - 👀 I’m interested in _Coding_
-      - 🌱 I’m currently learning _Python_
-      - 💞️ I’m looking to collaborate others Developers
-      - 📫 How to reach me https://www.linkedin.com/in/swapnil-bondar-079481251/
+- 👀 I’m interested in _Coding_
+- 🌱 I’m currently learning _Python_
+- 💞️ I’m looking to collaborate others Developers
+- 📫 How to reach me https://www.linkedin.com/in/swapnil-bondar-079481251/
+- 📫 How to reach me - bondarswapnil45@gmail.com
 
 <!---
 bondarswapnil/bondarswapnil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
