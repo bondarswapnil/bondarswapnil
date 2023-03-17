@@ -2,7 +2,7 @@
 - 👀 I’m interested in _Coding_
 - 🌱 I’m currently learning _Python, Django_
 - 💞️ I’m looking to collaborate others Developers
-- 📫 How to reach me https://www.linkedin.com/in/swapnil-bondar-079481251/
+- 📫 How to reach me https://www.linkedin.com/in/swapnil-bondar-546328139/
 - 📫 How to reach me - bondarswapnil45@gmail.com
 
 <!---
